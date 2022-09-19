@@ -1,4 +1,4 @@
-<img align="right" height="590" width="350" src="https://c.tenor.com/jIfa4bdSdxAAAAAC/cyberpunk.gif"/>
+<img align="right" height="600" width="350" src="https://c.tenor.com/jIfa4bdSdxAAAAAC/cyberpunk.gif"/>
 ### Hello World 👋
 
 
@@ -30,3 +30,4 @@
   ![Snake animation](https://github.com/Matheus1964/Matheus1964/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+<img align="right" height="300" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a7d2be101706101.5f24dfb8e78a6.gif"/>
